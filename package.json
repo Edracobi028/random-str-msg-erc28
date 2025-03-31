@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-erc28",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edracobi028/random-str-msg-erc28.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Razo <erazo@agristar.com.mx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edracobi028/random-str-msg-erc28/issues"
+  },
+  "homepage": "https://github.com/Edracobi028/random-str-msg-erc28#readme",
+  "bin": {
+    "random-str-msg-erc28":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
