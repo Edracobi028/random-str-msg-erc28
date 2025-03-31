@@ -14,7 +14,7 @@ random-str-msg-erc28
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: random-str-msg-erc28
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg-erc28] (https://github.com/Edracobi028/random-str-msg-erc28)
 
 # License
 funny-commit is released under the MIT License.
