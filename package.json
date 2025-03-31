@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-erc28",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random String Messages",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Edracobi028/random-str-msg-erc28#readme",
   "bin": {
-    "random-str-msg-erc28":"./bin/global.js"
+    "random-str-msg-erc28": "./bin/global.js"
   },
   "preferGlobal": true
 }
